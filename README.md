@@ -1,7 +1,8 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/bardisue/gitResume/blob/main/image/face.jpg)
+
+!<img src="https://github.com/bardisue/gitResume/blob/main/image/face.jpg  width="200" height="400"/>
 - 이름: 박병준
 - 군필여부: 사회복무요원 복무완료
 - 취미: 게임, **인디 게임 제작**, 야구, 영화감상
